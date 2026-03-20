@@ -1,6 +1,5 @@
 # 📝 My React App
-
-Pet-проект для изучения React, Redux Toolkit, TypeScript и FSD архитектуры.  
+ 
 Приложение для просмотра и загрузки постов с JSONPlaceholder API.
 
 ## 🚀 Технологии
